@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1097426582598",
+    "firebase_url": "https://vibe-podcasting-default-rtdb.firebaseio.com",
+    "project_id": "vibe-podcasting",
+    "storage_bucket": "vibe-podcasting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097426582598:android:d76b8e3ba97b8ada98de47",
+        "android_client_info": {
+          "package_name": "com.baerhous.vibe_podcasts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYvYCnY9Giq_3zEwdVrrxdblUp6bV_1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097426582598:android:689edafb71a9f2fd98de47",
+        "android_client_info": {
+          "package_name": "com.baerhous.vibe_podcasting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYvYCnY9Giq_3zEwdVrrxdblUp6bV_1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097426582598:android:8a178f8bba73c48198de47",
+        "android_client_info": {
+          "package_name": "com.baerhous.vibe_podcasts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBYvYCnY9Giq_3zEwdVrrxdblUp6bV_1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
